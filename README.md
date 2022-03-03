@@ -1,8 +1,8 @@
-### Hi
+# Hi.
 <div align="center">
   <a href="https://github.com/henriquefral">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=henriquefral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquefral&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquefral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquefral&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="Henrique-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henrique-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Henrique-pic" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/d54f8ec679bfb4d66db80b71a9390f41/bea462105db3d820-7c/s400x600/47b7b107242aaa30e153a783c5ebcc99104443a5.jpg?width=676&height=676">
+  <img align="right" alt="Henrique-pic" height="250" style="border-radius:50px;" src="https://64.media.tumblr.com/2ccfa5134991b16ec49660d01d582826/a008ff10f705683a-a5/s400x600/76c20a252c8fb5c4d214cf04020cfbe1bec3e5ea.png">
 </div>
   
   ##
